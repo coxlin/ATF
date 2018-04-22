@@ -8,4 +8,4 @@ Authoring Tools Framework (ATF) is a set of C#/.NET components for making tools 
 This figure shows LevelEditor, a powerful tool built with ATF for constructing and editing game levels. LevelEditor is also an open source project, available at [LevelEditor](https://github.com/SonyWWS/LevelEditor). See other tools built with ATF at [Gallery](https://github.com/SonyWWS/ATF/wiki/ATF-Gallery) and [ATF adopters](https://github.com/SonyWWS/ATF/wiki/ATF-Adoption).
 
 ### Shader Editor ###
-This fork is an experiemnt to see if we can use ATF to create a Rendermonkey style shader editor
+This fork is an experiment to see if we can use ATF to create a Rendermonkey style shader editor
